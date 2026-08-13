@@ -2,6 +2,7 @@
 <h3 align="center">CS Engineer building systems from first principles — runtimes, retrieval pipelines, and the infra in between</h3>
 
 <p align="center">
+  <a href="https://linkedin.com/in/shaman-kannan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shamankannan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/kShaman771"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -123,9 +124,16 @@ Ongoing log of DSA problem solutions worked through via the NeetCode roadmap —
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kShaman771&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kShaman771&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kShaman771&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="Shaman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kShaman771&layout=compact&theme=default&hide_border=true&cache_seconds=86400" height="165" alt="Top languages" />
 </p>
+
+<!-- If the cards above show as broken images, GitHub's image cache is likely
+     stale or the public vercel instance is rate-limited. This usually
+     resolves itself within a few hours. If it persists, deploy your own
+     free instance from https://github.com/anuraghazra/github-readme-stats
+     (one-click "Deploy to Vercel" button in that repo's README) and swap
+     the domain above for your own, e.g. your-app-name.vercel.app -->
 
 <br>
 
